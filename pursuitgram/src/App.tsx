@@ -1,8 +1,12 @@
-import React from 'react'
+import './main.css'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+        <h1 className='text-3x1 font-bold underline'>
+            hello world
+        </h1>
+    </div>
   )
 }
 
